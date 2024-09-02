@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atanas Work\\Desktop\\Regular Exam\\FOODY_RelugarExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D2662-4AFC-487F-96F5-E8B814C46209}|FOODY_RelugarExam\\FOODY_RelugarExam.csproj|c:\\users\\atanas work\\desktop\\regular exam\\foody_relugarexam\\foody_relugarexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D2662-4AFC-487F-96F5-E8B814C46209}|FOODY_RelugarExam\\FOODY_RelugarExam.csproj|solutionrelative:foody_relugarexam\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5D2662-4AFC-487F-96F5-E8B814C46209}|FOODY_RelugarExam\\FOODY_RelugarExam.csproj|c:\\users\\atanas work\\desktop\\regular exam\\foody_relugarexam\\foody_relugarexam\\pages\\allfoodpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5D2662-4AFC-487F-96F5-E8B814C46209}|FOODY_RelugarExam\\FOODY_RelugarExam.csproj|solutionrelative:foody_relugarexam\\pages\\allfoodpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllFoodPage.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Regular Exam\\FOODY_RelugarExam\\FOODY_RelugarExam\\Pages\\AllFoodPage.cs",
+              "RelativeDocumentMoniker": "FOODY_RelugarExam\\Pages\\AllFoodPage.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Regular Exam\\FOODY_RelugarExam\\FOODY_RelugarExam\\Pages\\AllFoodPage.cs",
+              "RelativeToolTip": "FOODY_RelugarExam\\Pages\\AllFoodPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:09:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Regular Exam\\FOODY_RelugarExam\\FOODY_RelugarExam\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FOODY_RelugarExam\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Regular Exam\\FOODY_RelugarExam\\FOODY_RelugarExam\\UnitTest1.cs",
+              "RelativeToolTip": "FOODY_RelugarExam\\UnitTest1.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAowKcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:27:18.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\pages\\allmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\pages\\allmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\pages\\editpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\pages\\editpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\pages\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\pages\\deletepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|c:\\users\\atanas work\\desktop\\testmoviecatalog\\testmoviecatalogue\\testmoviecatalogue\\pages\\watchedmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E640AE7C-F4ED-411F-92C7-66F046EA16DE}|TestMovieCatalogue\\TestMovieCatalogue.csproj|solutionrelative:testmoviecatalogue\\pages\\watchedmoviepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Atanas Work\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletePage.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\DeletePage.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\Pages\\DeletePage.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\DeletePage.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\Pages\\DeletePage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T09:14:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WatchedMoviePAge.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\WatchedMoviePAge.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\Pages\\WatchedMoviePAge.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\WatchedMoviePAge.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\Pages\\WatchedMoviePAge.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwCIAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:54:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Test.Sdk.Program.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\build\\netcoreapp3.1\\Microsoft.NET.Test.Sdk.Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:40:25.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditPage.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\EditPage.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\Pages\\EditPage.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\EditPage.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\Pages\\EditPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:26:03.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllMoviePage.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\AllMoviePage.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\Pages\\AllMoviePage.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\AllMoviePage.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\Pages\\AllMoviePage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T08:20:18.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\Pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\Pages\\BasePage.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\Pages\\BasePage.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:31:30.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestMovieCatalogue\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\TestMovieCatalog\\TestMovieCatalogue\\TestMovieCatalogue\\UnitTest1.cs",
+              "RelativeToolTip": "TestMovieCatalogue\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T06:29:36.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
